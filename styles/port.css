@@ -1,0 +1,106 @@
+body {
+    font: 20px "Montserrat", sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+     
+    background: url("../img/pic5.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+
+.bg-1{
+	
+      color: red;
+      font-family: 'Lobster', cursive;
+
+}
+.bg-2 { 
+      
+      background-size: 100px; 
+      color: #000000;
+      padding :10px;
+      margin-top: 10px;
+      font-family: 'Cookie', cursive;
+      font-size: 2em;
+  }
+  
+.bg-3{
+	
+      color: #000000;
+      font-weight: 700;
+      margin-top: 20px;
+      font-family: 'Kaushan Script', cursive;
+}
+
+}
+
+.bg-4 
+    { 
+  font-family: 'Grand Hotel', cursive;  
+   color: #000000;
+     }
+  
+  p{
+    font-family: 'Calligraffitti', cursive;
+  }
+  
+h1 {
+	color: red;
+  font-size: 3em;
+	font-style: bold;;
+	text-align: center;
+	padding-top: 10px;
+	text-shadow:0px 5px 10px teal,
+              0px 15px 2px green,
+              0px 25px 30px yellow;
+				
+}
+
+h3{
+color: blue;
+font-size: 2em;
+font-weight: 500;
+font-style: bold;
+padding-top: 10px;
+text-shadow: 0px 5px 10px green,
+              0px 10px 15px yellow;
+              
+             
+
+}
+h4{
+  color: purple;
+font-size: 2em;
+font-weight: 500;
+font-style: bold;
+text-shadow:0px 5px 10px red,
+              0px 15px 2px gray,
+              0px 25px 30px green;
+}
+
+img{
+		height: 400px;
+		width: 300px;
+    border-style: 5px solid black;
+    border-color: yellow;
+    margin: 0px;
+    position: center;
+	}
+  p{
+    color: 
+  }
+.navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
